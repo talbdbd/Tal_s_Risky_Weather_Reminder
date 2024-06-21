@@ -2,12 +2,12 @@
 
 ## Description
 
-The goal of this project was to create a simple quiz.
+The goal of this project was to create a simple weather dashboard.
 
-- My motivation was to make a functional and fun quiz.
-- I built this project to further my skills and proficiency in basic web APIs.
-- The main solution I strove for was to make the quiz functional and fun.
-- My main learning experience from this project was how to effectively apply web APIs to an application.
+- My motivation was to make a functional weather dashboard.
+- I built this project to further my skills and proficiency in basic server-side APIs.
+- The main solution I strove for was to make the dashboard functional and informative.
+- My main learning experience from this project was how to effectively apply server-side APIs to an application.
 
 ## Table of Contents
 
