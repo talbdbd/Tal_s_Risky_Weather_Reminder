@@ -23,7 +23,7 @@ No installation required! It will immediately run on the browser!
 ## Usage
 
 Take a look at the main page!
-![Dashboard Screenshot](assets/images/Screenshot%202024-06-21%20at%205.26.49 PM.png)
+![Dashboard Screenshot](assets/images/Screenshot%202024-06-21%20at%205.40.21 PM.png)
 
 ## Credits
 
